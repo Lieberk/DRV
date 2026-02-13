@@ -3,6 +3,9 @@ In this work, we propose a novel Dual-Rationales Verification (DRV) framework th
 
 ## Preparation
 
+Start the scripts\pro_text_extract.py to process the dual-rationales features. Replace the llm_data.json file with llm_data\llm_fakett.json and llm_data\llm_fmnv.json.
+
+
 ## Dataset
 We conduct experiments on two datasets: FMNV and FakeTT. 
 - **FMNV**: 
