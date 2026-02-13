@@ -1,0 +1,11 @@
+batch_size: 64
+lr: 0.0005
+max_epoch: 20
+epoch_stop: 5
+eval_epoch: 0
+seed: 2026
+
+name: "exp_test"
+GPU_id: "cuda:0"
+pretrain_path: '.\dataset\Pretrain'
+data_path: '.\dataset\FakeTT'
